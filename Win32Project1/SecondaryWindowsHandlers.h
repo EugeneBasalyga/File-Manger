@@ -1,0 +1,8 @@
+#include <Windows.h>
+#pragma once
+
+INT_PTR CALLBACK About(HWND, UINT, WPARAM, LPARAM);
+
+INT_PTR CALLBACK InfoWindow(HWND, UINT, WPARAM, LPARAM);
+
+INT_PTR CALLBACK NewFileDialogProcedure(HWND, UINT, WPARAM, LPARAM);

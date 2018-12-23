@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  Functions.cpp
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\resource.h(32): warning C4005: '_WIN32_IE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdkddkver.h(261): note: see previous definition of '_WIN32_IE'
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\functions.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\functions.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\functions.cpp(158): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: see declaration of 'swprintf'
+  Win32Project1.cpp
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\resource.h(32): warning C4005: '_WIN32_IE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdkddkver.h(261): note: see previous definition of '_WIN32_IE'
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(322): warning C4307: '+': integral constant overflow
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(322): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(324): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: see declaration of 'swprintf'
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(357): warning C4307: '+': integral constant overflow
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(357): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(473): warning C4244: 'argument': conversion from 'TCHAR' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(520): warning C4129: '*': unrecognized character escape sequence
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(574): warning C4018: '<': signed/unsigned mismatch
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(577): warning C4244: 'argument': conversion from 'TCHAR' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(596): warning C4018: '<': signed/unsigned mismatch
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(599): warning C4244: 'argument': conversion from 'TCHAR' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+c:\users\eugene\desktop\meh\5 семестр\осисп\курсовая\version 1.1\file manager\win32project1\win32project1.cpp(725): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: see declaration of 'swprintf'
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/EXPORTS'; ignored
+  Win32Project1.vcxproj -> C:\Users\Eugene\Desktop\meh\5 семестр\ОСиСП\Курсовая\version 1.1\File Manager\Debug\Win32Project1.exe
